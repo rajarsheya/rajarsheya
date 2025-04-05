@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **rajarsheya/rajarsheya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Welcome to My GitHub Profile
+# Hi there 👋, Welcome to My GitHub Profile!
 
-Hello! I'm Arsheya, a passionate technology leader with a strong background in cloud computing, full-stack development, AI, and data analytics. 
+I'm Arsheya, a passionate technology leader with a strong background in cloud computing, full-stack development, AI, and data analytics. 
 
 ## Skills & Technologies
 
