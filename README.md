@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi there 👋, Welcome to My GitHub Profile!
 
-I'm Arsheya, a passionate technology leader with a strong background in high performance computong, cloud computing, full-stack development, AI/ML, and data analytics. 
+I'm Arsheya, a passionate technology leader with a strong background in high performance computing (HPC), cloud computing, full-stack development, AI/ML, and data analytics. 
 
 ## Skills & Technologies
 
