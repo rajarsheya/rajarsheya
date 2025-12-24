@@ -26,7 +26,7 @@ I'm Arsheya, a passionate technology leader with a strong background in high per
 ## About Me
 
 - 🔭 **Education**: Master’s in Computer Science & Software Engineering from the University of Washington.
-- 🔭 **Experience**: CTO@Vaccine Genie, TA for Database Systems, Operating Systems, and High Performace Computing at UW Bothell, Ex-ZS Associates.
+- 🔭 **Experience**: Co-founder & CTO @ Vaccine Genie, TA for Database Systems, Operating Systems, and High Performace Computing at UW Bothell, Ex-ZS Associates.
 
 Feel free to explore my repositories and contribute if you're interested!
 
