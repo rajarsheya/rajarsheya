@@ -19,7 +19,7 @@ I'm Arsheya, a passionate technology leader with a strong background in high per
 
 ## Skills & Technologies
 
-- ⚡ **Programming Languages**: Python, C++, JavaScript, SQL/PostgreSQL, Shell Scripting, Swift
+- ⚡ **Programming Languages**: C++, SQL/PostgreSQL, Python, JavaScript, Shell Scripting, Swift
 - ⚡ **Frameworks & Libraries**: CUDA, OpenGL, OpenCV, TensorFlow, PyTorch, React, React Native, MATLAB
 - ⚡ **Tools**: Git, Jupyter, VS Code, PyCharm, XCode, Visual Studio
 
