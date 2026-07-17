@@ -68,7 +68,7 @@ Learning Agentic AI & LLM Infrastructure.
 
 ## 🛠 Tech Arsenal
 
-## Languages
+### Languages
 
 <p>
 
@@ -76,23 +76,23 @@ Learning Agentic AI & LLM Infrastructure.
 
 </p>
 
-## Backend & Databases
+### Backend & Databases
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,postgres,mysql,mongodb,firebase"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,mongodb,nodejs,fastapi,flask"/>
 
 </p>
 
-## Cloud & DevOps
+### Cloud & DevOps
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,githubactions,linux"/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,linux,docker,kubernetes,terraform,githubactions"/>
 
 </p>
 
-## AI / ML / HPC
+### AI / ML / HPC
 
 <p>
 
@@ -106,7 +106,7 @@ Learning Agentic AI & LLM Infrastructure.
 
 </p>
 
-## Frontend
+### Frontend
 
 <p>
 
