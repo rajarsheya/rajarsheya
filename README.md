@@ -31,25 +31,11 @@
 
 ## 👨‍💻 About Me
 
-```console
-arsheya@github:~$ whoami
+Software Engineer with a passion for building scalable software, cloud-native platforms, and AI-powered applications.
 
-Software Engineer specializing in Cloud Engineering,
-AI/ML, and Distributed Systems.
+My interests span **Software Engineering**, **Cloud Computing**, **Data Engineering**, **Artificial Intelligence**, **Distributed Systems**, **Backend Development**, and **High-Performance Computing**.
 
-arsheya@github:~$ interests
-
-> Building scalable software
-> Cloud-native architecture
-> Machine Learning
-> CUDA & HPC
-> Backend Engineering
-
-arsheya@github:~$ currently
-
-Building intelligent cloud platforms.
-Learning Agentic AI & LLM Infrastructure.
-```
+I enjoy solving complex engineering problems and building production-ready systems that are efficient, reliable, and designed to scale.
 
 ---
 
