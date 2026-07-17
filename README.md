@@ -124,13 +124,16 @@ Learning Agentic AI & LLM Infrastructure.
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🚀 Vaccine Genie
 
 **Co-Founder & Chief Technology Officer**
 
-Led the development of an AI-powered healthcare platform for digitizing immunization records using React Native, Google Cloud, Gemini AI, SMART on FHIR, and multilingual OCR.
+- Led the development of an AI-powered healthcare platform for immunization record management.
+- Built cloud-native applications using Google Cloud, React Native, Gemini AI, SMART on FHIR, and OCR technologies.
+- Led architecture, product development, and AI integration.
 
 </td>
 
@@ -140,23 +143,27 @@ Led the development of an AI-powered healthcare platform for digitizing immuniza
 
 **Teaching Assistant**
 
-Taught and mentored students in:
-
+Courses:
 - Database Systems
 - Operating Systems
 - High-Performance Computing
 
+Mentored students, conducted lab sessions, and assisted with course development.
+
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### 📊 ZS Associates
 
 **Business Technology Analyst**
 
-Developed enterprise analytics and software solutions for healthcare and business clients, working with SQL, ETL pipelines, data visualization, and large-scale datasets.
+- Developed enterprise analytics and software solutions for healthcare and business clients.
+- Worked on SQL, ETL pipelines, reporting, and data-driven decision making.
 
 </td>
 
@@ -164,14 +171,16 @@ Developed enterprise analytics and software solutions for healthcare and busines
 
 ### 💡 Open Source & Personal Projects
 
-Building full-stack AI applications focused on:
+Building software focused on:
 
-- Cloud Computing
-- Generative AI
-- Distributed Systems
-- CUDA & High-Performance Computing
+- ☁️ Cloud Engineering
+- 🤖 Artificial Intelligence
+- ⚡ CUDA & High-Performance Computing
+- 🌐 Distributed Systems
+- 💻 Full-Stack Development
 
 </td>
+
 </tr>
 </table>
 
