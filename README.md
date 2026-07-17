@@ -27,32 +27,26 @@
 
 </div>
 
-```cpp
-class ArsheyaRaj {
+## 👨‍💻 About Me
 
-public:
+```console
+arsheya@github:~$ whoami
 
-    string education =
-        "M.S. Computer Science & Software Engineering"
-        " | University of Washington";
+Software Engineer specializing in Cloud Engineering,
+AI/ML, and Distributed Systems.
 
-    vector<string> interests = {
+arsheya@github:~$ interests
 
-        "Software Engineering",
-        "Artificial Intelligence",
-        "Cloud Computing",
-        "Distributed Systems",
-        "CUDA & High Performance Computing",
-        "Backend Development",
-        "Machine Learning",
-        "Mobile Development"
+> Building scalable software
+> Cloud-native architecture
+> Machine Learning
+> CUDA & HPC
+> Backend Engineering
 
-    };
+arsheya@github:~$ currently
 
-    string currently_building =
-        "AI-powered Cloud Native Applications";
-
-};
+Building intelligent cloud platforms.
+Learning Agentic AI & LLM Infrastructure.
 ```
 
 ---
