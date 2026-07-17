@@ -277,7 +277,7 @@ Learning Agentic AI & LLM Infrastructure.
 
 ---
 
-# 📈 GitHub Analytics
+## 📈 GitHub Analytics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rajarsheya&show_icons=true&theme=tokyonight"/>
@@ -316,28 +316,27 @@ Mobile Development        ██████████████░░░░
 
 ---
 
-# 🌱 Currently Exploring
+## 🌱 Currently Exploring
 
-- Agentic AI
-- Multi-Agent Systems
-- Distributed AI Platforms
-- Cloud Architecture
-- CUDA Optimization
-- LLM Infrastructure
-- High Performance Computing
+- 🤖 Agentic AI & Multi-Agent Systems
+- 🧠 Advanced Retrieval-Augmented Generation (RAG)
+- ☁️ Cloud-Native AI Architectures
+- ⚡ GPU Optimization & CUDA
+- 🏗️ Distributed Systems & Scalable Infrastructure
+- 🔍 LLM Evaluation & Observability
 
 ---
 
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
 <p align="center">
 
 <a href="https://rajarsheya.github.io">
-<img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐_Portfolio-222222?style=for-the-badge"/>
 </a>
 
 <a href="https://linkedin.com/in/rajarsheya">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:raj94arsheya@gmail.com">
@@ -346,11 +345,15 @@ Mobile Development        ██████████████░░░░
 
 </p>
 
+<p align="center">
+💬 Always happy to connect, collaborate, or discuss software engineering, cloud architecture, AI/ML, and high-performance computing.
+</p>
+
 ---
 
 <div align="center">
 
-### ⭐ "Engineering intelligent software that scales from GPUs to the Cloud."
+### ⭐ Software Engineering • Cloud Computing • AI/ML • High-Performance Computing
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 
