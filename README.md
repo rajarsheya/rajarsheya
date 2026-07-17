@@ -124,16 +124,15 @@ Learning Agentic AI & LLM Infrastructure.
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
 ### 🚀 Vaccine Genie
 
 **Co-Founder & Chief Technology Officer**
 
-- Led the development of an AI-powered healthcare platform for immunization record management.
-- Built cloud-native applications using Google Cloud, React Native, Gemini AI, SMART on FHIR, and OCR technologies.
-- Led architecture, product development, and AI integration.
+- Architected a cloud-native healthcare platform using **Google Cloud, Python, Gemini AI, and FHIR/HL7**.
+- Built scalable backend services, REST APIs, and AI-powered workflows for immunization record management.
+- Led product architecture, cloud infrastructure, and engineering strategy.
 
 </td>
 
@@ -143,18 +142,24 @@ Learning Agentic AI & LLM Infrastructure.
 
 **Teaching Assistant**
 
-Courses:
-- Database Systems
-- Operating Systems
-- High-Performance Computing
-
-Mentored students, conducted lab sessions, and assisted with course development.
+- Taught and mentored students in **Database Systems, Operating Systems, and High-Performance Computing**.
+- Guided students in SQL, system programming, distributed systems, CUDA, and GPU programming.
 
 </td>
 
 </tr>
 
 <tr>
+<td width="50%" valign="top">
+
+### 💻 Freelance Software Engineer
+
+**React Native Developer**
+
+- Built cross-platform Android and iOS applications using **React Native, JavaScript, Firebase, and Google Cloud**.
+- Delivered production-ready applications for multiple clients with scalable architectures.
+
+</td>
 
 <td width="50%" valign="top">
 
@@ -162,22 +167,8 @@ Mentored students, conducted lab sessions, and assisted with course development.
 
 **Business Technology Analyst**
 
-- Developed enterprise analytics and software solutions for healthcare and business clients.
-- Worked on SQL, ETL pipelines, reporting, and data-driven decision making.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 💡 Open Source & Personal Projects
-
-Building software focused on:
-
-- ☁️ Cloud Engineering
-- 🤖 Artificial Intelligence
-- ⚡ CUDA & High-Performance Computing
-- 🌐 Distributed Systems
-- 💻 Full-Stack Development
+- Developed enterprise software and data engineering solutions using **AWS, Amazon Redshift, PostgreSQL, Java, and Node.js**.
+- Built ETL pipelines and optimized analytics platforms for healthcare and business intelligence.
 
 </td>
 
