@@ -156,64 +156,124 @@ Learning Agentic AI & LLM Infrastructure.
 
 ### 🚀 AI Startup Intelligence Platform
 
-> End-to-end startup intelligence platform powered by semantic search, vector databases, Retrieval-Augmented Generation (RAG), analytics dashboards, and Google Gemini.
+`Full Stack` `AI` `Cloud` `RAG`
 
-**Tech**
+> End-to-end AI startup intelligence platform that aggregates startup data and enables semantic search, Retrieval-Augmented Generation (RAG), analytics dashboards, and natural-language querying.
 
-`FastAPI`
-`React`
-`PostgreSQL`
-`Sentence Transformers`
-`Gemini`
-`RAG`
-`Semantic Search`
-`Analytics`
+**✨ Highlights**
+- 🔍 Semantic Search & Vector Embeddings
+- 🤖 Google Gemini + RAG
+- 📊 Interactive Analytics Dashboard
+- ⚡ Full-Stack Architecture
+
+**🛠️ Tech Stack**
+
+`Python` `FastAPI` `React` `PostgreSQL`
+`Sentence Transformers` `Google Gemini`
+`Vector Search` `RAG`
+
+<br>
 
 ### 🎓 Scholarship & Career Intelligence Platform
 
-AI-powered recommendation platform for scholarships, fellowships, internships, and jobs using streaming ETL pipelines and vector search.
+`Cloud` `AI` `Data Engineering` `ML`
 
-**Tech**
+> AI-powered career discovery platform that recommends scholarships, internships, fellowships, and jobs using cloud-native data pipelines, vector search, and Retrieval-Augmented Generation (RAG).
 
-`BigQuery`
-`MLflow`
-`Vector Search`
-`Streaming ETL`
-`Python`
+**✨ Highlights**
+- 🎯 Personalized Career Recommendations
+- ☁️ Streaming ETL Pipelines
+- 🔍 Semantic & Vector Search
+- 📊 BigQuery Analytics
+- 📈 MLflow Experiment Tracking
+
+**🛠️ Tech Stack**
+
+`Python` `Google Cloud` `BigQuery`
+`MLflow` `Streaming ETL`
+`Vector Search` `RAG`
+
+<br>
+
+### 🧠 Innovative Rehabilitation Using Mixed Reality & EEG/EMG Biofeedback
+
+`Research` `AI/ML` `Computer Vision` `Healthcare`
+
+> Research-driven rehabilitation platform developed in collaboration with the University of Washington and Harborview Medical Center, combining Mixed Reality, EEG/EMG biofeedback, and deep learning to assist stroke patients with upper-limb recovery.
+
+**✨ Highlights**
+- 🥽 Mixed Reality Rehabilitation
+- 🧠 EEG & EMG Signal Processing
+- 🤖 Deep Learning Classification
+- 🏥 Clinical Research Collaboration
+
+**🛠️ Tech Stack**
+
+`Python` `PyTorch` `TensorFlow`
+`MATLAB` `Mixed Reality`
+`CNN` `RNN` `LSTM` `SVM`
+
+<br>
+
+### ⚡ CUDA Accelerated Computing Suite
+
+`CUDA` `GPU Computing` `HPC` `C++`
+
+> Collection of GPU-accelerated applications demonstrating high-performance computing techniques for machine learning, computer vision, simulation, and real-time analytics.
+
+**✨ Featured Projects**
+- 🚗 Real-Time Traffic Analysis
+- 🌊 Particle Simulation
+- 🎤 Speech Feature Extraction
+- 🤖 LLM Inference Optimization
+- 📊 CUDA K-Means Clustering
+
+**🛠️ Tech Stack**
+
+`CUDA` `C++` `OpenCV`
+`TensorRT` `cuDNN`
+
+<br>
+
+### 📄 Cloud-Based Resume Intelligence Assistant
+
+`GenAI` `LLM` `Cloud` `NLP`
+
+> GenAI-powered resume analysis platform that extracts skills, identifies competency gaps, and generates ATS-friendly recommendations using semantic similarity and open-source large language models.
+
+**✨ Highlights**
+- 🤖 Resume Skill Extraction
+- 📊 ATS Optimization
+- 🧠 Semantic Similarity Search
+- ☁️ Cloud-Native Architecture
+
+**🛠️ Tech Stack**
+
+`Python` `FastAPI`
+`Open-Source LLMs`
+`Semantic Search`
 `Google Cloud`
 
-### 🏥 Vaccine Genie
+<br>
 
-Cloud-native healthcare platform for digitizing immunization records using AI OCR, SMART on FHIR, multilingual translation, and Google Cloud.
+### 👁️ Enhanced Vocabulary Trees for Real-Time Object Recognition
 
-🏆 Winner — Sacia Digital Health Challenge
+`Computer Vision` `Algorithms` `OpenCV` `Research`
 
-🏆 Featured at CES 2025
+> Computer vision system implementing hierarchical vocabulary trees for scalable image retrieval and real-time object recognition using modern local feature descriptors.
 
-### 🧠 Master's Thesis
+**✨ Highlights**
+- 🌳 Hierarchical Vocabulary Trees
+- 👁️ Real-Time Object Recognition
+- 📷 Feature Detection & Matching
+- 📈 Large-Scale Image Retrieval
 
-Mixed Reality + EEG/EMG Biofeedback for Upper Limb Rehabilitation
+**🛠️ Tech Stack**
 
-Research involving
-
-- Mixed Reality
-- Computer Vision
-- Deep Learning
-- Signal Processing
-- EEG
-- EMG
-- PyTorch
-- TensorFlow
-
-### ⚡ CUDA Projects
-
-GPU Accelerated Applications
-
-- CUDA K-Means
-- Particle Simulation
-- LLM Inference
-- Traffic Analytics
-- Speech Recognition
+`Python` `OpenCV`
+`SIFT` `ORB`
+`AKAZE` `BRISK`
+`K-Means`
 
 ---
 
