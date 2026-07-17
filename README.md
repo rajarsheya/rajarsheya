@@ -294,7 +294,7 @@ Learning Agentic AI & LLM Infrastructure.
 
 ---
 
-# 📊 Engineering Focus
+## 📊 Engineering Focus
 
 ```text
 Software Engineering      ████████████████████ 100%
