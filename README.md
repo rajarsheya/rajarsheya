@@ -280,23 +280,16 @@ Learning Agentic AI & LLM Infrastructure.
 # 📈 GitHub Analytics
 
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajarsheya&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajarsheya&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rajarsheya&show_icons=true&theme=tokyonight"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rajarsheya&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=rajarsheya&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=rajarsheya&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajarsheya&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajarsheya&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
