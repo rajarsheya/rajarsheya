@@ -151,9 +151,10 @@ Learning Agentic AI & LLM Infrastructure.
 </table>
 
 ---
-# 🌟 Featured Projects
 
-## 🚀 AI Startup Intelligence Platform
+## 🌟 Featured Projects
+
+### 🚀 AI Startup Intelligence Platform
 
 > End-to-end startup intelligence platform powered by semantic search, vector databases, Retrieval-Augmented Generation (RAG), analytics dashboards, and Google Gemini.
 
@@ -168,29 +169,20 @@ Learning Agentic AI & LLM Infrastructure.
 `Semantic Search`
 `Analytics`
 
----
-
-## 🎓 Scholarship & Career Intelligence Platform
+### 🎓 Scholarship & Career Intelligence Platform
 
 AI-powered recommendation platform for scholarships, fellowships, internships, and jobs using streaming ETL pipelines and vector search.
 
 **Tech**
 
 `BigQuery`
-
 `MLflow`
-
 `Vector Search`
-
 `Streaming ETL`
-
 `Python`
-
 `Google Cloud`
 
----
-
-## 🏥 Vaccine Genie
+### 🏥 Vaccine Genie
 
 Cloud-native healthcare platform for digitizing immunization records using AI OCR, SMART on FHIR, multilingual translation, and Google Cloud.
 
@@ -198,9 +190,7 @@ Cloud-native healthcare platform for digitizing immunization records using AI OC
 
 🏆 Featured at CES 2025
 
----
-
-## 🧠 Master's Thesis
+### 🧠 Master's Thesis
 
 Mixed Reality + EEG/EMG Biofeedback for Upper Limb Rehabilitation
 
@@ -215,9 +205,7 @@ Research involving
 - PyTorch
 - TensorFlow
 
----
-
-## ⚡ CUDA Projects
+### ⚡ CUDA Projects
 
 GPU Accelerated Applications
 
@@ -226,10 +214,6 @@ GPU Accelerated Applications
 - LLM Inference
 - Traffic Analytics
 - Speech Recognition
-
----
-
-
 
 ---
 
