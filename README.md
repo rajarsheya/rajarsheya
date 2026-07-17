@@ -1,18 +1,31 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Arsheya Raj
+# 👋 Hi, I'm Arsheya Raj
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+%26+Machine+Learning+Engineer;Cloud+Engineer;CUDA+%26+High+Performance+Computing;Distributed+Systems;Building+Scalable+Software"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Cloud+Engineer;AI+%26+Machine+Learning+Engineer;Designing+Scalable+Systems;Building+Intelligent+Software"/>
 
-### Software Engineer • AI/ML • Cloud • CUDA • Distributed Systems
+### Building scalable software systems, cloud-native applications, intelligent platforms, and GPU-accelerated solutions.
 
-<img src="https://komarev.com/ghpvc/?username=rajarsheya&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+🎓 **University of Washington** &nbsp;•&nbsp; ☁️ **Google Cloud Professional Cloud Architect** &nbsp;•&nbsp;
+
+<p align="center">
+  <a href="https://rajarsheya.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/rajarsheya">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:raj94arsheya@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajarsheya&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/rajarsheya?style=for-the-badge&logo=github&label=Followers"/>
+</p>
 
 </div>
-
----
-
-# 🚀 About Me
 
 ```cpp
 class ArsheyaRaj {
