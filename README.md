@@ -120,6 +120,37 @@ Learning Agentic AI & LLM Infrastructure.
 
 ---
 
+## 🏆 Certifications
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### Google Cloud
+
+<img src="https://img.shields.io/badge/Professional_Cloud_Architect-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Associate_Cloud_Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Digital_Leader-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
+</td>
+
+<td align="center" width="50%">
+
+### Amazon Web Services
+
+<img src="https://img.shields.io/badge/Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+---
 # 🌟 Featured Projects
 
 ## 🚀 AI Startup Intelligence Platform
@@ -198,17 +229,7 @@ GPU Accelerated Applications
 
 ---
 
-# 🏆 Certifications
 
-<p>
-
-<img src="https://img.shields.io/badge/Google_Professional_Cloud_Architect-4285F4?style=for-the-badge&logo=googlecloud"/>
-
-<img src="https://img.shields.io/badge/Google_Associate_Cloud_Engineer-4285F4?style=for-the-badge&logo=googlecloud"/>
-
-<img src="https://img.shields.io/badge/AWS_Solutions_Architect-FF9900?style=for-the-badge&logo=amazonaws"/>
-
-</p>
 
 ---
 
