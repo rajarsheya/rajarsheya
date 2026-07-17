@@ -6,7 +6,7 @@
 
 ### Building scalable software systems, cloud-native applications, intelligent platforms, and GPU-accelerated solutions.
 
-🎓 **University of Washington** &nbsp;•&nbsp; ☁️ **Google Cloud Professional Cloud Architect** &nbsp;•&nbsp;
+🎓 **University of Washington** &nbsp;•&nbsp; 🎓 **Birla Institute of Technology Mesra** 
 
 <p align="center">
   <a href="https://rajarsheya.github.io">
