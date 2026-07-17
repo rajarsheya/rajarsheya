@@ -120,31 +120,56 @@ Learning Agentic AI & LLM Infrastructure.
 
 ---
 
-## 🏆 Certifications
+## 💼 Professional Experience
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
-### Google Cloud
+### 🚀 Vaccine Genie
 
-<img src="https://img.shields.io/badge/Professional_Cloud_Architect-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+**Co-Founder & Chief Technology Officer**
 
-<br>
-
-<img src="https://img.shields.io/badge/Associate_Cloud_Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Digital_Leader-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+Led the development of an AI-powered healthcare platform for digitizing immunization records using React Native, Google Cloud, Gemini AI, SMART on FHIR, and multilingual OCR.
 
 </td>
 
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
-### Amazon Web Services
+### 🎓 University of Washington Bothell
 
-<img src="https://img.shields.io/badge/Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+**Teaching Assistant**
+
+Taught and mentored students in:
+
+- Database Systems
+- Operating Systems
+- High-Performance Computing
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📊 ZS Associates
+
+**Business Technology Analyst**
+
+Developed enterprise analytics and software solutions for healthcare and business clients, working with SQL, ETL pipelines, data visualization, and large-scale datasets.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💡 Open Source & Personal Projects
+
+Building full-stack AI applications focused on:
+
+- Cloud Computing
+- Generative AI
+- Distributed Systems
+- CUDA & High-Performance Computing
 
 </td>
 </tr>
@@ -274,6 +299,38 @@ Learning Agentic AI & LLM Infrastructure.
 `SIFT` `ORB`
 `AKAZE` `BRISK`
 `K-Means`
+
+---
+
+## 🏆 Certifications
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### Google Cloud
+
+<img src="https://img.shields.io/badge/Professional_Cloud_Architect-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Associate_Cloud_Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Digital_Leader-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
+</td>
+
+<td align="center" width="50%">
+
+### Amazon Web Services
+
+<img src="https://img.shields.io/badge/Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
