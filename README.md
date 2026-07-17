@@ -195,7 +195,7 @@ Learning Agentic AI & LLM Infrastructure.
 
 <br>
 
-### 🧠 Innovative Rehabilitation Using Mixed Reality & EEG/EMG Biofeedback
+### 🧠 [Masters Thesis] Innovative Rehabilitation Using Mixed Reality & EEG/EMG Biofeedback
 
 `Research` `AI/ML` `Computer Vision` `Healthcare`
 
