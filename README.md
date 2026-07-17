@@ -1,3 +1,5 @@
+---
+
 <div align="center">
 
 # 👋 Hi, I'm Arsheya Raj
@@ -51,45 +53,20 @@ Learning Agentic AI & LLM Infrastructure.
 
 ---
 
-# ⚡ Engineering Snapshot
+## 📊 Engineering at a Glance
 
-<table>
-<tr>
-<td width="50%">
-
-🎓 **University of Washington**
-
-💻 **Software Engineer**
-
-☁️ **Google Cloud Professional Architect**
-
-⚡ **AWS Solutions Architect**
-
-🚀 **Building AI + Cloud Platforms**
-
-</td>
-
-<td width="50%">
-
-🤖 AI/ML
-
-☁️ Cloud Computing
-
-⚡ CUDA Programming
-
-📊 Data Engineering
-
-🖥 Distributed Systems
-
-📱 Mobile Development
-
-</td>
-</tr>
-</table>
+| | |
+|:---|:---|
+| 🎓 **Education** | M.S. Computer Science & Software Engineering, University of Washington |
+| 💼 **Focus** | Software Engineering, Cloud Engineering, AI/ML |
+| ☁️ **Cloud** | Google Cloud Platform • AWS |
+| 🤖 **AI** | Machine Learning • Computer Vision • LLMs |
+| ⚡ **Performance** | CUDA • High Performance Computing |
+| 🏗️ **Specialties** | Distributed Systems • Backend Development • Data Engineering |
 
 ---
 
-# 🛠 Tech Arsenal
+## 🛠 Tech Arsenal
 
 ## Languages
 
